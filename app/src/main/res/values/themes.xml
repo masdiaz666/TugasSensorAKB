@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TugasSensor2023AKBIF510120199" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#407373</item>
+        <item name="colorPrimaryVariant">#151DA6</item>
+        <item name="colorOnPrimary">#756F6F</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#6E3434</item>
+        <item name="colorSecondaryVariant">#333553</item>
+        <item name="colorOnSecondary">#433F3F</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/purple_200</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

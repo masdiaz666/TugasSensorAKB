@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TugasSensor2023AKBIF510120199</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nama">Nama: Diaz Yasir Almarogi</string>
+    <string name="kelas">Kelas: IF-5</string>
+    <string name="nim">NIM: 10120199</string>
+    <string name="email">Email: diaz.10120199@mahasiswa.unikom.ac.id</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
